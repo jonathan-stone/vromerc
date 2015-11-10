@@ -1,3 +1,4 @@
 map b gt
 map a gT
 map d D
+unmap <C-z>
