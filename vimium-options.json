@@ -4,7 +4,7 @@
   "filterLinkHints": false,
   "waitForEnterForFilteredHints": true,
   "hideHud": false,
-  "keyMappings": "# Insert your preferred key mappings here.\n\n\nmap b nextTab\nmap a previousTab\nmap d removeTab\nunmap <C-z>\nmap t Vomnibar.activateInNewTab\nmap s scrollLeft\nmap f scrollRight",
+  "keyMappings": "# Insert your preferred key mappings here.\n\n\nmap b nextTab\nmap a previousTab\nmap d removeTab\nunmap <C-z>\nmap u restoreTab\nmap t Vomnibar.activateInNewTab\nmap s scrollLeft\nmap f scrollRight",
   "linkHintCharacters": "sadfjklewcmpgh",
   "linkHintNumbers": "0123456789",
   "newTabUrl": "about:newtab",
